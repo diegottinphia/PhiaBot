@@ -1,5 +1,5 @@
-# PhiaBot
-A simple bot for Whatsapp by Diegöttinphia
+# ShanBot Bot Para Whatsapp by shanduy
+
 <p align="center">
 <img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
 </p>
@@ -29,7 +29,7 @@ Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
 <p align='center'>
    <a href="https://www.instagram.com/thepavos/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.youtube.com/watch?v=2LQSzEbpJ-M"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/1202"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
+   <a href="https://wa.me/593967689722"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
 </P>
 
 
@@ -148,3 +148,5 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 
 ## by shanduy
+
+
