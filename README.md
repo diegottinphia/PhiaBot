@@ -1,4 +1,4 @@
-# ShanBot Bot Para Whatsapp by shanduy
+# PhiaBot Bot Para Whatsapp by 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ
 
 <p align="center">
 <img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
@@ -27,9 +27,9 @@ Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
 </p>
 
 <p align='center'>
-   <a href="https://www.instagram.com/thepavos/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/chupitasoo/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.youtube.com/watch?v=2LQSzEbpJ-M"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/593967689722"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
+   <a href="https://wa.me/12029844612"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
 </P>
 
 
@@ -48,11 +48,11 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 > CTRL y aplastas Z en tu teclado
 ```
 
-Una vez hecho eso vas a colorcar en termux los siguientes comandos
+Una vez hecho eso vas a colocar en termux los siguientes comandos
 
 ```bash
-> git clone https://github.com/shanduy/ShanBot
-> cd ShanBot
+> git clone https://github.com/diegottinphia/PhiaBot
+> cd PhiaBot
 > npm start
 ```
 
@@ -63,7 +63,7 @@ Te dara un nuevo codigo y lo escaneas con tu numero del bot y ya estara la actua
 
 
 
-## PASOS PARA INSTALAR ShanBot
+## PASOS PARA INSTALAR PhiaBot
 
 ## Primero Configurar termux
 Una vez descargado termux colocas el siguiente comando
@@ -85,8 +85,8 @@ Pasos para instalar el bot en termux
 > pkg install ffmpeg
 > pkg install nodejs
 > pkg install wget
-> git clone https://github.com/shanduy/ShanBot
-> cd ShanBot
+> git clone https://github.com/diegottinphia/PhiaBot
+> cd PhiaBot
 > bash install.sh
 > npm start
 > Y escaneas el QR con tu Whatsapp
@@ -103,7 +103,7 @@ Pasos para instalar el bot en termux
 Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos
 
 ```bash
-> cd ShanBot
+> cd PhiaBot
 > npm start
 ```
 
@@ -147,6 +147,6 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 
 
-## by shanduy
+## by 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ
 
 
