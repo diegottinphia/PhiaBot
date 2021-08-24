@@ -1,13 +1,12 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *PhiaBot ву 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ 
+   ○ Instagram: https://www.instagram.com/chupitasoo
 
 
 ◉ *NUEVOS COMANDOS*
@@ -18,13 +17,13 @@ Level para tus grupos
 ○ ${prefix}antimenu
 Su nombre lo dice todo (antilink)
 ○ ${prefix}otak
-Monas chinas
+Ich bin der Original
 ○ ${prefix}shantera
 Interactua con el bot
 
 ◉ *NUEVOS MENUS*
 ○ ${prefix}juegos
-Diviértete con tus amigos :)
+Divertiti con i tuoi amici:)
 ○ ${prefix}desmenu
 Descargar musica ( videos próximamente )
 ○ ${prefix}version
@@ -95,13 +94,12 @@ Para usar estas funciones el bot necesita admin
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
+No te olvides de seguirme en instagram  ;)
 
 
-ву ѕнαη∂υу
+ву 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ
 
 
-⌜ *ごきげんよう :)* ⌟ 
 `
 }
 
