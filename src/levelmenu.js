@@ -26,7 +26,7 @@ PARA VER TU XP EN TIEMPO REAL
     
 *Recuerda que si actualizas tu bot o borras el numero del bot o otra cosa todos los levels de los particiantes quedaran en 0*
     
-ву ѕнαη∂υу
+ву 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ
 `
 
 }
